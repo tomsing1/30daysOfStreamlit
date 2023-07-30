@@ -1,2 +1,4 @@
 secrets.toml
 !day17/.streamlit/secrets.toml
+.DS_Store
+
